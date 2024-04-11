@@ -4,5 +4,12 @@ jeffrey
 sadsadsad
 
 sfsdfdss
+<<<<<<< Updated upstream
 Dillon
 main
+=======
+
+
+
+new_func
+>>>>>>> Stashed changes
